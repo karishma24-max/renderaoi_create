@@ -19,8 +19,9 @@
   "homepage": "https://github.com/karishma24-max/renderaoi_create#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json": "^11.0.0",
-    "serve": "^14.1.2",
+  
+    "json-serve": "^0.1.0",
+    
     "server": "^1.0.38"
   }
 }
