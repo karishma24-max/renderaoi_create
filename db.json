@@ -1,16 +1,10 @@
 {
-    "books":[
-        {
-        "id":1,
-        "class":"kiya",
-        "name":"chauhan"
+    "user":[
+    ],
+    "data":[
 
-    },
-    {
-        "id":2,
-        "class":"karan",
-        "name":"sikarwar"
+    ],
+    "admin":[
 
-    }
-]
+    ]
 }
